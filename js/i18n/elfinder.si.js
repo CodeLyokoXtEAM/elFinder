@@ -34,7 +34,7 @@
 			'errTimeout'           : 'සම්බන්ධතා කල් ඉකුත්වී ඇත.',
 			'errNotFound'          : 'පසුබිම(Backend) සොයාගත නොහැකි විය.',
 			'errResponse'          : 'වලංගු නොවන පසුබිම(Backend) ප්‍රතිචාරය.',
-			'errConf'              : 'වලංගු නොවන Backend සැකැස්මකි.',
+			'errConf'              : 'වලංගු නොවන පසුබිම(Backend) සැකැස්මකි.',
 			'errJSON'              : 'PHP JSON මොඩියුලය ස්ථාපනය කර නැත.',
 			'errNoVolumes'         : 'කියවිය හැකි එ්කක(volumes) නොමැත.',
 			'errCmdParams'         : '"$1" නම් විධානය වලංගු නොවන පරාමිතියකි.',
@@ -143,7 +143,7 @@
 			'cmdsearch'    : 'ගොනු සොයන්න',
 			'cmdup'        : 'ප්‍ර්‍රධාන නාමාවලිය(parent directory) වෙත යන්න',
 			'cmdupload'    : 'ගොනු උඩුගත(Upload) කරන්න',
-			'cmdview'      : 'දර්ශනය(View)',
+			'cmdview'      : 'දර්ශනය(View) කරන්න',
 			'cmdresize'    : 'ප්‍රථිප්‍රමාණය සහ භ්‍රමණය',
 			'cmdsort'      : 'වර්ගීකරණය කරන්න',
 			'cmdnetmount'  : 'ජාල එ්කකයක්(network volume) සවි(mount) කරන්න', // added 18.04.2012
@@ -157,28 +157,28 @@
 			'cmdempty'     : 'ෆෝල්ඩරය හිස් කරන්න', // from v2.1.25 added 22.06.2017
 
 			/*********************************** buttons ***********************************/
-			'btnClose'  : 'Close',
-			'btnSave'   : 'Save',
-			'btnRm'     : 'Remove',
+			'btnClose'  : 'වසන්න',
+			'btnSave'   : 'සුරකින්න',
+			'btnRm'     : 'ඉවත් කරන්න',
 			'btnApply'  : 'Apply',
-			'btnCancel' : 'Cancel',
-			'btnNo'     : 'No',
-			'btnYes'    : 'Yes',
-			'btnMount'  : 'Mount',  // added 18.04.2012
-			'btnApprove': 'Goto $1 & approve', // from v2.1 added 26.04.2012
+			'btnCancel' : 'අවලංගු කරන්න',
+			'btnNo'     : 'නැත',
+			'btnYes'    : 'ඔව්',
+			'btnMount'  : 'සවිකිරීම(Mount)',  // added 18.04.2012
+			'btnApprove': 'කරුණාකර $1 අනුමත කරන්න', // from v2.1 added 26.04.2012
 			'btnUnmount': 'Unmount', // from v2.1 added 30.04.2012
-			'btnConv'   : 'Convert', // from v2.1 added 08.04.2014
-			'btnCwd'    : 'Here',      // from v2.1 added 22.5.2015
+			'btnConv'   : 'පරිවර්තනය කරන්න', // from v2.1 added 08.04.2014
+			'btnCwd'    : 'මෙතන',      // from v2.1 added 22.5.2015
 			'btnVolume' : 'Volume',    // from v2.1 added 22.5.2015
-			'btnAll'    : 'All',       // from v2.1 added 22.5.2015
-			'btnMime'   : 'MIME Type', // from v2.1 added 22.5.2015
-			'btnFileName':'Filename',  // from v2.1 added 22.5.2015
-			'btnSaveClose': 'Save & Close', // from v2.1 added 12.6.2015
+			'btnAll'    : 'සියල්ල',       // from v2.1 added 22.5.2015
+			'btnMime'   : 'MIME වර්ගය', // from v2.1 added 22.5.2015
+			'btnFileName':'ගොනුවේ නම',  // from v2.1 added 22.5.2015
+			'btnSaveClose': 'සුරකින්න සහ වසන්න', // from v2.1 added 12.6.2015
 			'btnBackup' : 'Backup', // fromv2.1 added 28.11.2015
-			'btnRename'    : 'Rename',      // from v2.1.24 added 6.4.2017
-			'btnRenameAll' : 'Rename(All)', // from v2.1.24 added 6.4.2017
-			'btnPrevious' : 'Prev ($1/$2)', // from v2.1.24 added 11.5.2017
-			'btnNext'     : 'Next ($1/$2)', // from v2.1.24 added 11.5.2017
+			'btnRename'    : ' නම වෙනස් කරන්න',      // from v2.1.24 added 6.4.2017
+			'btnRenameAll' : ' නම වෙනස් කරන්න(සියල්ල)', // from v2.1.24 added 6.4.2017
+			'btnPrevious' : 'පෙර ($1/$2)', // from v2.1.24 added 11.5.2017
+			'btnNext'     : 'ඊළඟ ($1/$2)', // from v2.1.24 added 11.5.2017
 			'btnSaveAs'   : 'Save As', // from v2.1.25 added 24.5.2017
 
 			/******************************** notifications ********************************/
